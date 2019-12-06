@@ -1,1 +1,14 @@
+mvn clean package #build docker file
+mvn spring-boot:run
 mvn spring-boot:run -Ddockerfile.skip
+
+spustane z docker konzoly, isiel som do adresara, kde je Dockerfile:
+docker build -t cicd-applied-to-spring-boot-java-app .
+docker image ls
+docker run -p 5000:8080 cicd-applied-to-spring-boot-java-app
+
+docker container ls -a
+docker container rm 0a2e047c8826
+docker image rm 9318c1deb39d
+
+docker ps
