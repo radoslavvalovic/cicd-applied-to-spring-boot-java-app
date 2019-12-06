@@ -8,7 +8,7 @@ public class HelloController {
 	
 	@GetMapping("/")
 	public String home() {
-        return "Hello World from DZONE";
+        return "Hello World from RV cicdappliedtospringbootjavaapp";
     }
 
 }

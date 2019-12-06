@@ -26,7 +26,7 @@
 		
 		<!-- Instead of "fanjups", please add your Docker Hub username -->
 		
-		<docker.image.prefix>fanjups</docker.image.prefix>
+		<docker.image.prefix>radoslavvalovic</docker.image.prefix>
 		
 		<!--Not adding artifacts to remote repository-->
 		
@@ -241,28 +241,28 @@
   
   <developers>
   	<developer>
-  		<email>jupsfan@gmail.com</email>
-		<name>Fanon Jupkwo</name>
-		<url>https://github.com/FanJups</url>
-		<id>FanJups</id>
+  		<email>radoslav.valovic@gmail.com</email>
+		<name>Radoslav Valovic</name>
+		<url>https://github.com/radoslavvalovic</url>
+		<id>RV</id>
   	</developer>
       
   </developers>
   
   <organization>
-		<name>FAN JUPS TECH</name>
-		<url>https://github.com/FanJups/</url>
+		<name>RV</name>
+		<url>https://github.com/radoslavvalovic/</url>
 	</organization>
   
   <issueManagement>
 		<system>GitHub Issues</system>
-		<url>https://github.com/FanJups/cicd-applied-to-spring-boot-java-app/issues</url>
+		<url>https://github.com/radoslavvalovic/cicd-applied-to-spring-boot-java-app/issues</url>
   </issueManagement>
   
   <scm>
-		<url>https://github.com/FanJups/cicd-applied-to-spring-boot-java-app</url>
-		<connection>scm:git:git://github.com/FanJups/cicd-applied-to-spring-boot-java-app.git</connection>
-		<developerConnection>scm:git:git://github.com/FanJups/cicd-applied-to-spring-boot-java-app.git</developerConnection>
+		<url>https://github.com/radoslavvalovic/cicd-applied-to-spring-boot-java-app</url>
+		<connection>scm:git:git://github.com/radoslavvalovic/cicd-applied-to-spring-boot-java-app.git</connection>
+		<developerConnection>scm:git:git://github.com/radoslavvalovic/cicd-applied-to-spring-boot-java-app.git</developerConnection>
   </scm>
 
 </project>
