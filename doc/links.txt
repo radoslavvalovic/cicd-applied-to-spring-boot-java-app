@@ -1,0 +1,5 @@
+https://dzone.com/articles/applying-cicd-to-java-apps-using-spring-boot
+https://github.com/radoslavvalovic/cicd-applied-to-spring-boot-java-app
+https://travis-ci.com/radoslavvalovic/cicd-applied-to-spring-boot-java-app
+https://hub.docker.com/repository/docker/radoslavvalovic/cicd-applied-to-spring-boot-java-app
+https://codecov.io/gh/radoslavvalovic/cicd-applied-to-spring-boot-java-app

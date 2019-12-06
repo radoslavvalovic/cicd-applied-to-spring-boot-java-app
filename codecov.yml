@@ -1,3 +1,4 @@
+# ak chces vynechat z code coverage, dalsie riadky odkomentuj
 #coverage:
 #  ignore:
 #    - "src/"
