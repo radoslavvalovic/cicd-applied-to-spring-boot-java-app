@@ -11,8 +11,8 @@ VOLUME /tmp
 EXPOSE 8080
 
 # The application's jar file
-#ARG JAR_FILE
-ARG JAR_FILE=target/cicd-applied-to-spring-boot-java-app-0.0.1-SNAPSHOT.jar
+ARG JAR_FILE
+#toto asi nefunguje ARG JAR_FILE=target/cicd-applied-to-spring-boot-java-app-0.0.1-SNAPSHOT.jar
 
 # Add the application's jar to the container
 # cicd-applied-to-spring-boot-java-app-0.0.1-SNAPSHOT.jar
